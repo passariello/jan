@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@janhq/core": "../../core/package.tgz",
-    "@langchain/community": "0.0.13",
+    "@langchain/community": "1.1.18",
     "hnswlib-node": "^1.4.2",
     "langchain": "^0.0.214",
     "node-gyp": "^11.0.0",
